@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Hello carwash</string>
+    <!-- SignUp String -->
+    <!-- Toast messages String -->
+    <string name="signUpSuccessfully">You have registered successfully, verification email has been send!</string>
+    <string name="signUpFailed">Registration Failed!</string>
+    <string name="signUpMissedReq">Fill out all the required details, please!</string>
+    <string name="signUpPhoneLen">The mobile number must consist of 10 numbers!</string>
+    <string name="signUpPasswordLen">Password too short, enter minimum 8 characters!</string>
+    <string name="signUpConPassword">The two passwords does not match!</string>
+    <string name="signUpDialog">Signing Up</string>
+    <!-- Toast messages String -->
+    <string name="signUpActivityTitle">Sign up Form</string>
+    <string name="signUpFullName">Full Name</string>
+    <string name="signUpEmail">Email</string>
+    <string name="signUpPhoneNum">Phone Number</string>
+    <string name="signUpPassword">Password</string>
+    <string name="signUpConfirmPass">Confirm Password</string>
+    <string name="signUpRegistryButton">Registry</string>
+    <string name="signUpHaveAccount">Already Have Account !</string>
+    <!-- SignIn String -->
+    <!-- Toast messages String -->
+    <string name="signInEmptyFields">insert your Email and Password, please!</string>
+    <string name="signInEmptyEmail">insert your Email, please!</string>
+    <string name="signInEmptyPass">insert your Password, please!</string>
+    <string name="signInError">You have entered an invalid email or password!</string>
+    <string name="signInVer">verify your Email, please!</string>
+    <string name="signInDialog">Signing in</string>
+    <!-- Toast messages String -->
+    <string name="signInActivityTitle">Sign In Form</string>
+    <string name="companyLogo">companyLogo</string>
+    <string name="signInEmail">Email</string>
+    <string name="signInPassword">Password</string>
+    <string name="signInButton">Sign In</string>
+    <string name="signInPricesButton">Services &amp; Prices</string>
+    <string name="signInHaveNotAccount">Don\'t Have Account !</string>
+    <string name="signInResetPassword">Forget password ?</string>
+    <!-- mainActivity String -->
+    <string name="mainActivityTitle">Hello CarWash</string>
+    <string name="button">go</string>
+    <!-- navigation  String -->
+    <string name="stElement">Home</string>
+    <string name="secElement">Profile</string>
+    <string name="thrElement">Services &amp; Prices</string>
+    <string name="forthElement">logout</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- reset password String -->
+    <string name="resetPassActivityTitle">Reset Password</string>
+    <string name="resetPassButton">Reset Password</string>
+    <string name="resetPassDialog">Sending reset password email</string>
+    <!-- Toast messages String -->
+    <string name="resetPassEmptyFields">insert your registered Email, please!</string>
+    <string name="resetPassSendSuc">Reset Password email has been send successfully!</string>
+    <string name="resetPassSendFailed">The Email that you have inserted is no registered!</string>
+    <!-- Toast messages String -->
+    <!-- prices and services String -->
+    <string name="servicesButton">Book your appointment now!</string>
+    <string name="servicesActivityTitle">Services &amp; Prices</string>
+    <!-- Toast messages String -->
+    <!-- Toast messages String -->
+</resources>

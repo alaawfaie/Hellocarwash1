@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layoutDirection="ltr">
+    <item
+        android:id="@+id/nav_Home"
+        android:title="@string/stElement"
+        android:icon="@mipmap/twotone_home_black_24">
+    </item><item
+        android:id="@+id/nav_Profile"
+        android:title="@string/secElement"
+        android:icon="@mipmap/twotone_account_box_black_24">
+    </item>
+    <item
+        android:id="@+id/nav_Services"
+        android:title="@string/thrElement"
+        android:icon="@mipmap/icons8_material_two_tone_50">
+    </item>
+    <item
+        android:id="@+id/nav_Logout"
+        android:title="@string/forthElement"
+        android:icon="@mipmap/icons8_exit_24">
+    </item>
+
+</menu>

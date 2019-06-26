@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "824748794798",
+    "firebase_url": "https://hello-carwash-60ebc.firebaseio.com",
+    "project_id": "hello-carwash-60ebc",
+    "storage_bucket": "hello-carwash-60ebc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824748794798:android:427d9aa4f05217a2",
+        "android_client_info": {
+          "package_name": "com.example.hellocarwash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824748794798-m5k55h3ilufdvfmscccucem5btjbgrbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hellocarwash",
+            "certificate_hash": "91b6542549924db70a29c77021ec663abfe65c37"
+          }
+        },
+        {
+          "client_id": "824748794798-6jc0lct75q5684pduvlq1ua2fglhfd7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_rJj0j-NdRJPW_IsNrOArvhhv-50h9bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824748794798-6jc0lct75q5684pduvlq1ua2fglhfd7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
